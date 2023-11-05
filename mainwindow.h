@@ -3,8 +3,9 @@
 
 #include <QMainWindow>
 
-namespace Ui {
-class MainWindow;
+namespace Ui
+{
+    class MainWindow;
 }
 
 class MainWindow : public QMainWindow
@@ -29,7 +30,6 @@ private slots:
     void on_actionHelp_Content_triggered();
 
     void on_actionAbout_triggered();
-
 
     void on_sinButton_clicked();
 
@@ -56,8 +56,9 @@ private slots:
 private:
     Ui::MainWindow *ui;
     void calculate(QString basicOperator);
+
 private:
-    void calculateTrigonometricFunction(QString function);    
+    void calculateTrigonometricFunction(QString function);
 };
 
 #endif // MAINWINDOW_H

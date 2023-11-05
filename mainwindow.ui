@@ -51,7 +51,7 @@
      <rect>
       <x>210</x>
       <y>200</y>
-      <width>415</width>
+      <width>401</width>
       <height>21</height>
      </rect>
     </property>
@@ -202,7 +202,7 @@
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:700; color:#ff5500;&quot;&gt;N.B: Please use Number 1 input for square root (√)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>120</x>
@@ -263,7 +263,7 @@
      </item>
     </layout>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>327</x>
