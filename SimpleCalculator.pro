@@ -18,3 +18,10 @@ SOURCES += main.cpp\
 HEADERS  += mainwindow.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES +=
+
+RESOURCES += \
+    my_resources.qrc
+
+RC_ICONS = calculator.ico

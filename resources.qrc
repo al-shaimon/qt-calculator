@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Downloads/calculator.ico</file>
+    </qresource>
+</RCC>
